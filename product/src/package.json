@@ -1,0 +1,13 @@
+{
+  "name": "product_micro_service",
+  "version": "1.0.0",
+  "description": "Product micro service",
+  "author": "Kinit Salvi <ksalvi@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
